@@ -11,7 +11,7 @@ A fully responsive clone of Amazon’s homepage built using HTML, CSS, and JavaS
 - JavaScript (Vanilla JS)
 
 ## 📸 Screenshots
-![Screenshot 1](./screenshots/homepage.png)
+![Screenshot 1](screenshots/)
 <!-- Add actual screenshot paths or upload screenshots -->
 
 ## 💡 Features
